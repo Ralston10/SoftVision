@@ -4,7 +4,7 @@ SOFTVISION is an Android-based assistive application designed to help visually i
 
 - Key Features
   
-1)Real-Time Object Detection - Detects objects using live camera feed and Uses TensorFlow Lite + MobileNet SSD
+1) Real-Time Object Detection - Detects objects using live camera feed and Uses TensorFlow Lite + MobileNet SSD
 
 2) Audio Assistance (Text-to-Speech) - Announces detected objects and Helps users understand surroundings without vision
 
