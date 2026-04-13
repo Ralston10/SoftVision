@@ -3,6 +3,7 @@ SOFTVISION - AI-Powered Assistant for the Visually Impaired
 SOFTVISION is an Android-based assistive application designed to help visually impaired individuals navigate their surroundings independently. The app uses real-time object detection via the smartphone camera and provides audio feedback to inform users about nearby objects, helping them avoid obstacles and move safely.
 
 - Key Features
+  
 1)Real-Time Object Detection - Detects objects using live camera feed and Uses TensorFlow Lite + MobileNet SSD
 
 2) Audio Assistance (Text-to-Speech) - Announces detected objects and Helps users understand surroundings without vision
